@@ -1,4 +1,4 @@
-# Acitfier
+# Actifier
 Acitfier is a Machine Learning model that classifies human activity using only decision tree algorithms. Trained on the UCI Dataset, it is deployed and can be used by generatinng data from Physics Toolbox Suite (a mobile application).
 
 The model can be found in the HAR_2.ipynb notebook.
